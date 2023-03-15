@@ -1,0 +1,22 @@
+h1 {
+text-align: center;
+}
+body {
+    background-color: rgb(128, 89, 165);
+}
+div {
+    background-color: rgb(181, 137, 222);
+    font-size: large;
+    height: 300px;
+
+}
+img {
+    height: 70%;
+    width: 20%;
+}
+#me{
+    background-color: rgb(200, 193, 206);
+    font-style: italic;
+    height: 75px;
+    text-decoration: underline;
+}
